@@ -286,3 +286,15 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+node_modules
+build
+test
+src/**.js
+
+coverage
+.nyc_output
+*.log
+
+yarn.lock
+package-lock.json
